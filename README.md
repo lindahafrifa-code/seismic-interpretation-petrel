@@ -2,7 +2,7 @@
 
 Complete seismic interpretation workflow in Petrel: seismic QC, well tie, horizon and fault interpretation, seismic attributes, time-depth conversion, and structural mapping.
 
------
+-------
 
 # what the project is
 
